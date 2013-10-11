@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/sinedas/jbehave-spring-samples.png)](https://api.travis-ci.org/sinedas/jbehave-spring-samples.png)
+
 jbehave-spring-samples
 ======================
 
